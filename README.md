@@ -94,3 +94,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Inspiration
 * etc
 
+## Extra material
+https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1?utm_source=sailthru&utm_medium=email&utm_campaign=newsletter_themed_17in2017_20171214&utm_term=Career%20learners%20%2B%20likely%20enrollers%20%2B%20active%20learners%20%28excluding%20disengaged%20learners%29
