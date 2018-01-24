@@ -10,7 +10,7 @@ These instructions will get you a copy of the repository on your local machine f
 
 ### Prerequisites
 
-#### You must be with a computer running a Debian based distribution.
+#### You must be using a computer running a Debian based distribution.
 
 #### Git (optional)
 
@@ -20,79 +20,23 @@ Install Git for Ubuntu/Debian.
 $ sudo apt-get install git
 ```
 
-[Install for other distributions](https://git-scm.com/download/linux)
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+[Install for other distributions.](https://git-scm.com/download/linux)
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+## Author
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+The main contributor is [Daniel Delgado](https://github.com/ddelgadoJS). For further details, you can go to the [contributors graph](https://github.com/ddelgadoJS/Basic-Linux-Workshop/graphs/contributors).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the CC-BY-4.0 License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+Special thanks to the organizers of the [2017 Summer School in High Performance Computing](https://github.com/CNCA-CeNAT/EV-HPC-2017) at the Costa Rica's [National Advanced Computing Collaboratory](http://www.cenat.ac.cr/en/cnca-en/).
 
 ## Extra material
 https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1?utm_source=sailthru&utm_medium=email&utm_campaign=newsletter_themed_17in2017_20171214&utm_term=Career%20learners%20%2B%20likely%20enrollers%20%2B%20active%20learners%20%28excluding%20disengaged%20learners%29
