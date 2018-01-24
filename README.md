@@ -39,4 +39,4 @@ This project is licensed under the CC-BY-4.0 License - see the [LICENSE.md](LICE
 Special thanks to the organizers of the [2017 Summer School in High Performance Computing](https://github.com/CNCA-CeNAT/EV-HPC-2017) at the Costa Rica's [National Advanced Computing Collaboratory](http://www.cenat.ac.cr/en/cnca-en/).
 
 ## Extra material
-https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1?utm_source=sailthru&utm_medium=email&utm_campaign=newsletter_themed_17in2017_20171214&utm_term=Career%20learners%20%2B%20likely%20enrollers%20%2B%20active%20learners%20%28excluding%20disengaged%20learners%29
+* A good online course can be found at [edX - Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)
